@@ -10,3 +10,8 @@ scikit-learn - 0.22.2.post1
 
 pandas-1.2.4
 
+flask
+
+category-encoders-2.2.2
+
+
