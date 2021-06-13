@@ -1,5 +1,6 @@
 # Movie-Rating-Prediction
-Movie Rating Prediction
+
+## 需要解壓縮model裡的random_forest_movie_rating_model
 
 ## Dependencies
 numpy - 1.20.3
