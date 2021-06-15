@@ -31,7 +31,11 @@ def home():
             genre3 = request.form['genre3']
             actor1 = request.form['actor1']
             actor2 = request.form['actor2']
+            if actor2 == "":
+                actor2 = "None"
             actor3 = request.form['actor3']
+            if actor3 == "":
+                actor3 = "None"
             director = request.form['director']
             writer = request.form['writer']
             duration = request.form['duration']
