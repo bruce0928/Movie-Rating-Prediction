@@ -1,6 +1,8 @@
 # Movie-Rating-Prediction
 
-## 需要解壓縮model裡的random_forest_movie_rating_model
+This project aims to use some basic information of a movie (duration, cast, genre, etc.) to predict its potential imdb rating.
+
+## Need to unzip "random_forest_movie_rating_model.rar" in "model" folder
 
 ## Dependencies
 numpy - 1.20.3
